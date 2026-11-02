@@ -1,0 +1,75 @@
+[
+  {
+    "doc_id": "KB-01",
+    "topic": "return window by product category",
+    "title": "Nykaa Return Window by Product Category",
+    "content": "Nykaa provides a 15-day return window for unopened beauty, personal care, and cosmetics items from the delivery date. Apparel and footwear items are eligible for returns within 7 days of delivery provided original tags and packaging are intact. Electronics, styling tools, and home appliances must be returned within 7 days only in case of transit damage or manufacturing defects. Personal hygiene products and clearance items are strictly non-returnable."
+  },
+  {
+    "doc_id": "KB-02",
+    "topic": "COD refund timelines",
+    "title": "Cash on Delivery (COD) Refund Timelines",
+    "content": "For orders placed via Cash on Delivery, refunds cannot be returned in cash and are processed via NEFT bank transfer or Nykaa wallet credits. Once the returned package passes quality inspection at our fulfillment warehouse, the refund is initiated within 2 business days. It typically reflects in the customer's linked bank account within 3 to 5 business days depending on the recipient bank's clearing cycle. Customers must provide their accurate account number and IFSC code via the Nykaa app."
+  },
+  {
+    "doc_id": "KB-03",
+    "topic": "delivery SLAs",
+    "title": "Nykaa Delivery Service Level Agreements (SLAs)",
+    "content": "Standard deliveries across metro cities including Mumbai, Delhi NCR, Bengaluru, and Chennai are completed within 2 to 3 business days. For Tier-2 and Tier-3 cities, standard delivery spans between 4 to 7 business days from warehouse dispatch. Express delivery options are available in select metro pin codes, promising delivery within 24 to 48 hours for an additional convenience charge. External delays caused by extreme weather or local transit curfews may extend these SLAs by up to 48 hours."
+  },
+  {
+    "doc_id": "KB-04",
+    "topic": "reverse-pickup eligibility",
+    "title": "Reverse-Pickup Eligibility & Guidelines",
+    "content": "Reverse pickup is provided free of charge for addresses within serviceable courier pin codes across India. To qualify for pickup, the product must remain completely unused, unwashed, and packed in its original brand box with all tags and barcodes intact. If a customer's pin code is non-serviceable for reverse pickup, the customer may self-ship the item via a recognized courier service. Nykaa reimburses up to INR 100 in shipping fees as Nykaa wallet credits upon receipt of the courier receipt."
+  },
+  {
+    "doc_id": "KB-05",
+    "topic": "warranty terms by category",
+    "title": "Warranty Terms by Product Category",
+    "content": "Electronic appliances including hair dryers, straighteners, and facial trimmers carry a manufacturer warranty ranging from 1 to 2 years as specified by the brand. Beauty cosmetics, fragrances, and skincare products do not come with warranties but are 100% authentic and sourced directly from brands. Home decor and accessories carry a limited 30-day warranty against structural defects. Warranty claims for electronics must be registered directly with the brand's authorized service centers using the Nykaa tax invoice."
+  },
+  {
+    "doc_id": "KB-06",
+    "topic": "order-cancellation policy",
+    "title": "Order Cancellation Policy",
+    "content": "Customers can cancel an order directly through the 'My Orders' section before the order has been packed and dispatched from our warehouse. Once an order enters the 'Shipped' status, in-app cancellation is disabled, and the customer must refuse the package at the time of doorstep delivery. For prepaid cancellations, the entire amount is refunded back to the original payment source within 24 to 48 hours. Orders containing custom engraved items or flash sale bundles cannot be cancelled once placed."
+  },
+  {
+    "doc_id": "KB-07",
+    "topic": "loyalty-points redemption policy",
+    "title": "Nykaa Prive Loyalty Points Redemption Policy",
+    "content": "Nykaa Prive members earn reward points on every completed purchase, which can be redeemed during checkout on eligible products. A minimum balance of 200 reward points is required to initiate redemption, with 100 points equating to INR 10 in discount value. Loyalty points cannot be redeemed against shipping fees, gift cards, or select luxury brands. All accumulated points have a validity of 12 months from the date of credit and expire automatically thereafter."
+  },
+  {
+    "doc_id": "KB-08",
+    "topic": "payment-failure/retry policy",
+    "title": "Payment Failure & Retry Guidelines",
+    "content": "If an online payment fails but the amount is debited from the customer's bank account, banks typically reverse the transaction automatically within 24 to 48 hours. Customers are advised to wait 15 minutes before attempting a payment retry to prevent accidental duplicate charges. If the order status remains 'Pending Payment' after 30 minutes, the provisional order is cancelled, and any deducted funds will be restored within 3 to 7 working days. UPI and Net Banking users can verify payment status using the bank transaction reference number."
+  },
+  {
+    "doc_id": "KB-09",
+    "topic": "size-exchange policy",
+    "title": "Apparel & Footwear Size Exchange Policy",
+    "content": "Size exchanges are available exclusively for apparel and footwear products within 7 calendar days of delivery. The exchange is free of charge but remains strictly subject to inventory availability in the requested replacement size. If the desired replacement size is out of stock, the customer will receive an immediate full refund upon return pickup of the original item. Each purchased garment or pair of shoes is eligible for only one size exchange."
+  },
+  {
+    "doc_id": "KB-10",
+    "topic": "damaged-item claim process",
+    "title": "Damaged or Defective Item Claim Process",
+    "content": "Customers receiving a damaged, leaking, or defective item must report the issue within 48 hours of delivery via the Nykaa Help Center. It is mandatory to upload clear photographs or an unboxing video displaying the outer box packaging, shipping label, and the specific damage on the product. Once our claims assessment team reviews and approves the evidence, a free replacement is dispatched within 24 hours. If a replacement is unavailable, an immediate full refund is processed to the original payment method."
+  },
+  {
+    "doc_id": "KB-11",
+    "topic": "international shipping restrictions",
+    "title": "International Shipping & Dangerous Goods Restrictions",
+    "content": "Nykaa ships to select international destinations subject to regional customs and import regulations. Aerosol sprays, pressurized deodorants, flammable perfumes, and nail enamels are classified as dangerous goods and are restricted from international air transit. International orders are subject to local import customs duties and value-added taxes, which must be borne entirely by the recipient. Delivery timelines for international consignments range between 7 to 14 business days."
+  },
+  {
+    "doc_id": "KB-12",
+    "topic": "customer-support escalation matrix",
+    "title": "Customer Support Escalation Matrix & SLA",
+    "content": "Level 1 assistance is handled 24/7 by our automated AI support bot and frontline chat agents with instant response times. If an inquiry remains unresolved after 24 hours, it escalates to Level 2 Support Team Leads with a mandatory 4-hour SLA. Critical escalations involving payment fraud, persistent delivery delays, or legal inquiries reach Level 3 Grievance Officers, who provide resolution within 48 business hours. Customers can reach the Level 3 Grievance Desk at grievance-officer@nykaa.com."
+  }
+]
+

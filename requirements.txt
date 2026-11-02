@@ -1,0 +1,25 @@
+# Multi-Agent Orchestration
+crewai
+autogen-agentchat
+autogen-ext
+
+# Memory & LangChain Components
+langchain
+langchain-core
+langchain-community
+
+# Embeddings & Local Vector Store
+sentence-transformers
+chromadb
+
+# Web Framework & API Server
+fastapi
+uvicorn[standard]
+websockets
+httpx
+pydantic>=2.8.0
+
+# Environment & Testing
+python-dotenv
+pytest
+

@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing cache
+.pytest_cache/
+
+# Environment secrets & configuration
+.env
+
+# Runtime generated data & logs
+data/chroma_db/
+logs/
+
+# IDE & OS generated files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
